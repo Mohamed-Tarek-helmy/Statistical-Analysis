@@ -4,11 +4,11 @@ The project involves conducting statistical analyses on various questions relate
 
 
 Files
-The project includes the following files:
-1- Business statistics Project Delivariables List.pdf  The questions and deleveriables for the project. 
-2- GSS2008 (Dataset).xlsx: The dataset used for the project in Excel format
-3- General Social Survey List of Variables.wrod: A text file describing the variables in the dataset
-4- project.xlsx: A Jupyter notebook containing the code and analyses for the project
+The project includes the following files:. <br>
+1- Business statistics Project Delivariables List.pdf  The questions and deleveriables for the project. <br>
+2- GSS2008 (Dataset).xlsx: The dataset used for the project in Excel format. <br>
+3- General Social Survey List of Variables.wrod: A text file describing the variables in the dataset. <br>
+4- project.xlsx: A Jupyter notebook containing the code and analyses for the project. <br>
 
 
 Requirements
